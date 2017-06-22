@@ -1,0 +1,17 @@
+
+.container{	
+	position: absolute;
+	height: content;
+	width: 1000px;
+	right: 0px;
+}
+
+
+footer{
+	
+	position: absolute;
+	bottom: 0px;
+	background:#4072B4;
+	min-height: 30px;
+	width: 100%;
+}
